@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my graduation project<br>
-🌱 I’m currently learning more about design systems and a11y in front-end development<br>
+🔭 Recently Graduated looking for new opportunities in ux design and front-end development<br>
+🌱 Currently learning more about design systems and a11y in front-end development<br>
 📫 [Feel free to reach out via twitter](https://twitter.com/lorenzodelijser)
 
 You can find me on:<br>
