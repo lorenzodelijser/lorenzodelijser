@@ -1,5 +1,6 @@
 ### 👋 Hi there
 
+💼 Available for a full-time job<br>
 🔭 Recently graduated designer looking for new opportunities in digital product design and frontend development<br>
 🌱 Currently learning more about design systems and a11y in frontend development<br>
 📫 [Feel free to reach out via twitter](https://twitter.com/lorenzodelijser)
