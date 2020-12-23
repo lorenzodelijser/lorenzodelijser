@@ -3,7 +3,7 @@
 I'm a Digital Designer & Frontend Developer. Currently Frontend Developer at [Yummygum](https://yummygum.com/).
 
 🌱 I always like to learn more about design systems and a11y in frontend development.<br>
-🔭 I'm a huge fan of progressive web apps and tools.
+🔭 I'm a huge fan of progressive web apps and tools.<br>
 📫 Feel free to reach out via [twitter](https://twitter.com/lorenzodelijser) or [email](mailto:hey@lorenzodelijser.com).
 
 You can find me on:<br>
