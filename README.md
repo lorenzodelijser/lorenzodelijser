@@ -1,6 +1,6 @@
-### 👋 Hi there, I'm Lorenzo
+### 👋 Nice to meet you! I'm Lorenzo de Lijser!
 
-I'm a Digital Designer & Frontend Developer.
+I craft digital products as a Digital Designer & Front-end Developer.
 
 👨‍💻 Frontend Developer at [Yummygum](https://yummygum.com/).<br>
 🌱 I always like to learn more about design systems and a11y in frontend development.<br>
