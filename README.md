@@ -2,10 +2,9 @@
 
 I craft digital products as a Digital Designer & Front-end Developer.
 
-👨‍💻 Frontend Developer at [Yummygum](https://yummygum.com/).<br>
 🌱 I always like to learn more about design systems and a11y in frontend development.<br>
 🔭 I'm a huge fan of progressive web apps and tools.<br>
-📫 Feel free to reach out via [twitter](https://twitter.com/lorenzodelijser) or [email](mailto:hey@lorenzodelijser.com).
+📫 Feel free to reach out via [twitter](https://twitter.com/lorenzodelijser) or [email](mailto:hi@lorenzodelijser.com).
 
 You can also find me on:<br>
 [Twitter](https://twitter.com/lorenzodelijser)<br>
