@@ -1,12 +1,9 @@
-#### Product Designer & Developer based in Amsterdam.
+#### product designer & engineer based in amsterdam.
 
-I solve complex issues by designing and developing user-friendly digital products and web experiences.
+i solve complex issues by designing and developing user-friendly digital products and web experiences.
 
-**Find me on the web:**<br>
-[Website](https://lorenzodelijser.com)<br/>
-[Quick links](https://lorenzo.link)
+**find me on the web:**<br>
+[website](https://lorenzodelijser.com), [quick links](https://lorenzo.link)
 
-**Link with me on:**<br>
-[Twitter](https://twitter.com/lorenzodelijser)<br/>
-[LinkedIn](https://www.linkedin.com/in/lorenzodelijser)<br/>
-[Readcv](https://read.cv/lorenzo)
+**link with me:**<br>
+[x](https://x.com/lorenzodelijser), [readcv](https://read.cv/lorenzo), [figma](https://www.figma.com/@lorenzo)
