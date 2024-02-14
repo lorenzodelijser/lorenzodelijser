@@ -1,6 +1,6 @@
 #### product designer & engineer based in amsterdam.
 
-i solve complex issues by designing and developing user-friendly digital products and web experiences.
+i solve complex issues by designing and developing user-friendly digital products.
 
 **find me on the web:**<br>
 [website](https://lorenzodelijser.com), [quick links](https://lorenzo.link)
