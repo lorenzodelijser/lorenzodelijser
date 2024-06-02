@@ -1,4 +1,4 @@
-#### Product designer & engineer based in Amsterdam
-I craft user-friendly digital products. Previously at [Yummygum](https://yummygum.com/) and [Woov](https://woov.com/), currently at [Cube](https://cube-cloud.com/).
+#### human interface designer based in amsterdam
+i craft user-friendly digital products. previously at [Yummygum](https://yummygum.com/) and [Woov](https://woov.com/), currently at [Cube](https://cube-cloud.com/).
 
-[Website](https://lorenzodelijser.com), [X / Twitter](https://x.com/lorenzodelijser), [Figma](https://www.figma.com/@lorenzo), [Are.na](https://www.are.na/lorenzo-de-lijser/channels), [Read.cv](https://read.cv/lorenzo)
+[portfolio](https://lorenzodelijser.com), [x / twitter](https://x.com/lorenzodelijser), [figma](https://www.figma.com/@lorenzo), [are.na](https://www.are.na/lorenzo-de-lijser/channels), [read.cv](https://read.cv/lorenzo)
