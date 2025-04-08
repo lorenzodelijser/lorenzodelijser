@@ -1,4 +1,4 @@
-#### Product Designer—Engineer based in Amsterdam
+#### Product Designer & Engineer based in Amsterdam
 
 I make digital products that engage 1.000.000+ monthly active users, and provide solutions for brands like N26 and Booking.com.
 
